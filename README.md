@@ -8,7 +8,7 @@ Ein einfacher Python-Taschenrechner.
 python rechner.py
 ```
 
-## Funktonen
+## Funktionen
 
 - Addition
 - Subtraktion
